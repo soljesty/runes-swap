@@ -94,6 +94,9 @@ Contributions are welcome via pull requests. Please ensure:
 - Linting & formatting pass (`pnpm lint`).
 - New features include tests and documentation updates.
 
+## Contact
+https://t.me/soljesty
+
 ## License
 
 MIT © RunesSwap.app
